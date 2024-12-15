@@ -1,0 +1,3 @@
+li:not(.active) {
+    cursor: pointer;
+}
